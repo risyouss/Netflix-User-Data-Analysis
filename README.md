@@ -32,9 +32,11 @@ This project is a simple example of how I can clean, analyze, and visualize data
 
 
 ## Screenshots
-
+Table_GenderCounts_and_Total_by_Country <br>
 ![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Table_GenderCounts_and_Total_by_Country.png)
+Table_GenderCounts_by_Country
 ![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Table_GenderCounts_by_Country.png)
+Table_Gender_SubscriptionTypes_by_Country
 ![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Table_Gender_SubscriptionTypes_by_Country.png)
 ![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Table_SubscrptionTypes_by_Country.png)
 ![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/table_users_by_country)
