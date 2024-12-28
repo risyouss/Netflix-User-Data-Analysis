@@ -16,8 +16,9 @@ I also analyzed device usage by country to understand user preferences.
 Audience Analysis
 
 I visualized age groups to get a sense of the audience demographics.
-I calculated the average subscription duration, which is about 10.78 months, to understand user retention.
-Revenue Analysis
+I calculated the average subscription duration, which is about 10.78 months.
+
+### Revenue Analysis
 
 By creating a new column for total revenue, I found that the USA and Spain are the highest-revenue-generating regions.
 ### Visualizations
