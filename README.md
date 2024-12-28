@@ -26,11 +26,6 @@ By creating a new column for total revenue, I found that the USA and Spain are t
 I used maps to show the number of users by country and bar charts to compare subscription types by region.
 This project is a simple example of how I can clean, analyze, and visualize data to find patterns and insights. It highlights my ability to use Python and its libraries to work with data effectively.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## Screenshots
 Data_head <br>
 ![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Data_head.png)<br>
@@ -63,3 +58,6 @@ BarChart_TotalRevenu_by_Country<br>
 Map_UsersCounts_by_Country<br>
 ![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Map_UsersCounts_by_Country.png)<br>
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
