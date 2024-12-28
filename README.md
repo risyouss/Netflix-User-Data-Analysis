@@ -32,22 +32,34 @@ This project is a simple example of how I can clean, analyze, and visualize data
 
 
 ## Screenshots
+Data_head <br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Data_head.png)<br>
 Table_GenderCounts_and_Total_by_Country <br>
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Table_GenderCounts_and_Total_by_Country.png)
-Table_GenderCounts_by_Country
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Table_GenderCounts_by_Country.png)
-Table_Gender_SubscriptionTypes_by_Country
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Table_Gender_SubscriptionTypes_by_Country.png)
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Table_SubscrptionTypes_by_Country.png)
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/table_users_by_country)
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Data_head.png)
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_Age_Counts.png)
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_Country_Counts.png)
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_DeviceCounts.png)
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_GenderDistribution_by_Country.png)
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_Gender_Counts.png)
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_SubscriptionTypes_by_Country.png)
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_SubscriptionTypes_counts.png)
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_TotalRevenu_by_Country.png)
-![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Map_UsersCounts_by_Country.png)
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Table_GenderCounts_and_Total_by_Country.png)<br>
+Table_GenderCounts_by_Country <br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Table_GenderCounts_by_Country.png)<br>
+Table_Gender_SubscriptionTypes_by_Country<br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Table_Gender_SubscriptionTypes_by_Country.png)<br>
+Table_SubscrptionTypes_by_Country<br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Table_SubscrptionTypes_by_Country.png)<br>
+table_users_by_country<br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/table_users_by_country)<br>
+BarChart_Age_Counts<br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_Age_Counts.png)<br>
+BarChart_Country_Counts<br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_Country_Counts.png)<br>
+BarChart_DeviceCounts<br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_DeviceCounts.png)<br>
+BarChart_GenderDistribution_by_Country<br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_GenderDistribution_by_Country.png)<br>
+BarChart_Gender_Counts<br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_Gender_Counts.png)<br>
+BarChart_SubscriptionTypes_by_Country<br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_SubscriptionTypes_by_Country.png)<br>
+/BarChart_SubscriptionTypes_counts<br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_SubscriptionTypes_counts.png)<br>
+BarChart_TotalRevenu_by_Country<br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_TotalRevenu_by_Country.png)<br>
+Map_UsersCounts_by_Country<br>
+![App Screenshot](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/Map_UsersCounts_by_Country.png)<br>
 
