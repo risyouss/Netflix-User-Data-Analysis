@@ -33,4 +33,4 @@ This project is a simple example of how I can clean, analyze, and visualize data
 
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_Age_Counts.png))
+![App Screenshot]([[https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_Age_Counts.png)](https://github.com/risyouss/Netflix-User-Data-Analysis/blob/main/net_vis/BarChart_Age_Counts.png))
